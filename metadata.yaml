@@ -1,0 +1,26 @@
+_repo: Radio-V-rays_73554
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dirk, Jan
+    gutenberg_agent_id: '57114'
+    url: http://www.gutenberg.org/2009/agents/57114
+description: ''
+gutenberg_issued: '2024-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73554'
+language: en
+pgterms:marc904: https://archive.org/details/WeirdTalesV05N03192503
+pgterms:marc905: 20240505183523dirk
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aIndianapolis, IN :$bPopular Fiction Publilshing Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Radio V-rays
+url: http://www.gutenberg.org/ebooks/73554
